@@ -1,0 +1,22 @@
+{
+  "name": "@gonzih/skills-veterinary",
+  "version": "1.0.0",
+  "description": "Veterinary skills for Claude Code",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "veterinary",
+    "vet",
+    "clinical"
+  ],
+  "homepage": "https://github.com/gonzih/skills-veterinary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-veterinary.git"
+  },
+  "license": "MIT",
+  "files": [
+    "skills/"
+  ]
+}
