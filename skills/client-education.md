@@ -57,3 +57,9 @@ The handout should include:
 - Reminder that the veterinary team is there to help
 
 Write in warm, accessible language at approximately an 8th-grade reading level. Use short paragraphs, bullet points, and clear headings. Avoid medical jargon; when technical terms are necessary, explain them in parentheses. The tone should be informative, compassionate, and empowering — helping owners feel confident in caring for their pet.
+
+## Live Data Sources
+
+- **AVMA Pet Owner Resources** — avma.org/resources-tools/pet-owners — authoritative, veterinarian-reviewed handouts and articles covering hundreds of conditions, species, and life stages
+- **VIN Client Education Handout Library** — Veterinary Information Network patterns for structured client education content covering diagnosis explanations, treatment overviews, and home care
+- **AAHA Vaccination Schedule Databases** — American Animal Hospital Association canine and feline vaccination guidelines with core/non-core schedules, titer guidance, and species-specific protocols

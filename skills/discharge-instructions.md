@@ -43,3 +43,8 @@ For each medication prescribed:
 - Clinic phone number and after-hours emergency contact
 
 Write in clear, simple language that a non-medical pet owner can easily understand. Avoid jargon. Use numbered lists or bullet points for readability. Include a friendly, reassuring tone. End with the clinic contact information and a reminder to call with any questions.
+
+## Live Data Sources
+
+- **AVMA Client Education Library** — avma.org/resources-tools/pet-owners — peer-reviewed client education materials covering common conditions, procedures, and post-care guidance
+- **Breed-Specific Care Databases** — curated care recommendations tailored to breed predispositions, exercise needs, dietary requirements, and recovery considerations

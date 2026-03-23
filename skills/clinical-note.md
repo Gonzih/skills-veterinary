@@ -33,3 +33,9 @@ The note should include the following sections:
 - Prognosis
 
 Format the note professionally, as it would appear in a veterinary medical record. Use standard veterinary abbreviations where appropriate (e.g., BAR, QAR, TPR, SID, BID, TID, QID, PO, SQ, IM, IV). Be thorough, precise, and medically accurate.
+
+## Live Data Sources
+
+- **AVMA Clinical Guidelines** — avma.org/resources-tools/avma-policies — authoritative policy and clinical guideline documents for treatment standards and best practices
+- **Plumb's Veterinary Drug Handbook** — drug dosing reference patterns including species-specific dose ranges, routes, frequencies, and contraindications
+- **ICD-10-CM Veterinary Mapping** — standardized diagnostic code mapping for veterinary diagnoses adapted from ICD-10-CM to support medical record coding and billing

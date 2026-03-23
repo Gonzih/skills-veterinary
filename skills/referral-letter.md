@@ -46,3 +46,9 @@ The referral letter should include:
 - Professional sign-off with credentials
 
 Write in a collegial, professional tone appropriate for veterinary specialist-to-specialist communication. Be thorough and organized so the specialist has all relevant information before the appointment. Use standard veterinary terminology and abbreviations where appropriate.
+
+## Live Data Sources
+
+- **ACVIM Specialist Finder** — acvim.org — directory of board-certified internal medicine specialists by location and subspecialty (cardiology, neurology, oncology, etc.)
+- **ACVS Diplomate Directory** — acvs.org — searchable registry of board-certified veterinary surgeons for surgical referrals
+- **Referral Protocol Templates** — standardized referral communication frameworks used by specialty hospitals to ensure complete and consistent case handoffs
